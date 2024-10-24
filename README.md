@@ -19,13 +19,27 @@ Where else am I active:
 </div>
 
 
-## More about my expertise:
+## More about my domains of expertise:
 
 With an intrinsic passion for artificial intelligence, I work with organizations and academic institutions to advance AI technologies and inspire the next generation of leaders. My focus is on leveraging data science, machine learning, intelligent automation and cloud computing to solve problems.
 
 **"Cultivating problem-solving through pedagogy-driven learning, fostering innovation and critical thinking within higher education institutions."** well reflects my teaching philosophy.
 
 Areas where my expertise can be leveraged to provide you values:
+
+
+Artificial Intelligence (AI)
+
+Data Science and Machine Learning
+
+Generative AI
+
+AI + Autism Spectrum Disorder (ASD) Research
+
+Banking and Financial Services
+
+Intellectual Property Law
+
 
 <div style="white-space: nowrap;">
   <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
@@ -55,7 +69,7 @@ Areas where my expertise can be leveraged to provide you values:
 </div>
 
 
-## 3. Courses Taught and Teaching Expertise
+## 3. Courses and Topics I Teach
 Courses: A refined list showcasing the courses you've taught or can teach:
 
 - AI in Accounting and Finance: Leveraging AI technologies in financial applications.
@@ -68,7 +82,7 @@ Courses: A refined list showcasing the courses you've taught or can teach:
 
 - Teaching Focus: AI, Data Science, Cloud Computing, and their interdisciplinary applications.
 
-## 4. Research Interests and Projects
+## 4. Research Interests and Aspirations
 
 Research Areas:
 
@@ -95,34 +109,16 @@ Data Scientist at Yokogawa Singapore: Developed data-driven solutions for indust
 - Cloud infrastructure deployment
 - Data analytics and project management
 
-## 6. Publications, Talks, and GitHub Contributions
-Publications: Include notable papers and links to your NTU profile (NTU Profile) for a complete list of your publications.
+## 6. Invited Talks
 
 Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.
 
+## 7. Student Projects Show Cases
 Open Source: Highlight significant contributions to GitHub. Feature projects or repositories demonstrating your hands-on expertise in AI and data science. Provide direct links, e.g., GitHub Profile.
-
-## 7. Professional Accomplishments
 
 Mention any awards or recognitions, such as contributions to AI research or impactful industry projects.
 
 Industry Partnerships: Include collaborations with businesses or institutions (Barclays, Yokogawa, etc.).
-
-## 8. Domains of Expertise
-
-Use this section to quickly summarize your areas of expertise. Format it into visually appealing icons or bullet points:
-
-Artificial Intelligence (AI)
-
-Data Science and Machine Learning
-
-Generative AI
-
-AI + Autism Spectrum Disorder (ASD) Research
-
-Banking and Financial Services
-
-Intellectual Property Law
 
 ## 9. Call to Action
 
