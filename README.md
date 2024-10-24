@@ -6,7 +6,17 @@
 
 I am **GU Zhan (Sam)**, a senior lecturer in applied artificial intelligence, Nanyang Business School, Nanyang Technological University (Singapore).
 
-Where else am I active: GitHub, NTU profile, and a contact form.
+Where else am I active: 
+
+<a href="https://dr.ntu.edu.sg/cris/rp/rp02466" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">NTU</a>
+
+<a href="https://sg.linkedin.com/in/zhan-gu-27a82823" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">LinkedIn</a>
+
+<a href="https://sg.linkedin.com/in/zhan-gu-27a82823" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Github</a>
+
+<a href="https://www.youtube.com/@telescopeuser9284" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">YouTube</a>
+
+
 
 ## 2. Introduction/Personal Statement
 
