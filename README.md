@@ -9,11 +9,11 @@
 ![My_Text](misc/SamProtrait.jpg?raw=true | width=50)
 
 
-[<img align="right" src="misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
+[<img align="right" src="misc/SamProtrait.jpg?raw=true" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
 
-[<img align="right" src="https://github.com/dd-consulting/About_Sam_GU/blob/main/misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
+[<img align="right" src="https://github.com/dd-consulting/About_Sam_GU/blob/main/misc/SamProtrait.jpg?raw=true" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
 
-[<img align="right" src="https://github.com/dd-consulting/About_Sam_GU/blob/main/misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
+[<img align="right" src="https://github.com/dd-consulting/About_Sam_GU/blob/main/misc/SamProtrait.jpg?raw=true" width=50>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
 
 Mr. GU Zhan (Sam) – Lecturer and Consultant in Applied Artificial Intelligence.
 
