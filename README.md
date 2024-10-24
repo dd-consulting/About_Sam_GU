@@ -1,4 +1,4 @@
-[<img align="right" src="misc/SamProtrait.jpg?raw=true" width=150>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
+[<img align="right" src="misc/SamProtrait.jpg?raw=true" width=200>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
 
 ### *-- "Empower organizations through AI, Data Science, and Intelligent Automation."*
 
