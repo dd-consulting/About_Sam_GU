@@ -4,7 +4,7 @@
 
 ### *---- "Inspire artificial intelligence enthusiasts and leaders through education and mentorship."*
 
-I am **GU Zhan (Sam)**, a senior lecturer in applied artificial intelligence, Nanyang Business School, Nanyang Technological University (Singapore).
+I am **GU Zhan (Sam)**, currently servering senior lecturer role in applied artificial intelligence, division of information technology & operations management, Nanyang Business School, Nanyang Technological University (NTU Singapore).
 
 Where else am I active:
 
@@ -19,13 +19,41 @@ Where else am I active:
 </div>
 
 
-## 2. Introduction/Personal Statement
+## More about my expertise:
 
-A brief overview summarizing your journey and purpose:
+With an intrinsic passion for artificial intelligence, I work with organizations and academic institutions to advance AI technologies and inspire the next generation of leaders. My focus is on leveraging data science, machine learning, intelligent automation and cloud computing to solve problems.
 
-“With a passion for applied artificial intelligence, I work with organizations and academic institutions to advance AI technologies and inspire the next generation of leaders. My focus is on leveraging data science, machine learning, and cloud computing to solve real-world problems.”
+**"Cultivating problem-solving through pedagogy-driven learning, fostering innovation and critical thinking within higher education institutions."** well reflects my teaching philosophy.
 
-Include your educational background (Master's from the National University of Singapore), and a note about your transition from the corporate world (Yokogawa, Barclays, HDB, Citibank) to academia and consulting.
+Areas where my expertise can be leveraged to provide you values:
+
+<div style="white-space: nowrap;">
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+</div>
+
 
 ## 3. Courses Taught and Teaching Expertise
 Courses: A refined list showcasing the courses you've taught or can teach:
