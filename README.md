@@ -10,7 +10,7 @@ Professional Photo: A clear headshot.
 
 [<img align="right" src="misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
 
-[<img align="right" src="https://github.com/dd-consulting/About_Sam_GU/raw/main/misc/SamPortrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
+[<img align="right" src="https://github.com/dd-consulting/About_Sam_GU/blob/main/misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
 
 
 Quick Links: Buttons  GitHub, NTU profile, and a contact form.
