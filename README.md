@@ -2,13 +2,7 @@
 
 ## 1. Hi! Welcome to my homepage!
 
-![Mr. GU Zhan (Sam)](misc/SamProtrait.jpg)
-
-![Mr. GU Zhan (Sam)](misc/SamProtrait.jpg?raw=true)
-
-[<img align="right" src="https://github.com/dd-consulting/About_Sam_GU/blob/main/misc/SamProtrait.jpg?raw=true" width=200>](https://youtu.be/W-ZsWqcl1_c "Click to talk long...")
-
-[<img align="right" src="misc/SamProtrait.jpg?raw=true" width=200>](https://youtu.be/W-ZsWqcl1_c "Click to talk short...")
+[<img align="right" src="misc/SamProtrait.jpg?raw=true" width=150>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
 
 Mr. GU Zhan (Sam) – Lecturer and Consultant in Applied Artificial Intelligence.
 
