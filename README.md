@@ -1,8 +1,8 @@
 [<img align="right" src="misc/SamProtrait.jpg?raw=true" width=200>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
 
-### *-- "Empower organizations through AI, Data Science, and Intelligent Automation."*
+### *---- "Empower organizations through AI, Data Science, and Intelligent Automation."*
 
-### *-- "Inspire artificial intelligence enthusiasts and leaders through education and mentorship."*
+### *---- "Inspire artificial intelligence enthusiasts and leaders through education and mentorship."*
 
 I am **GU Zhan (Sam)**, a senior lecturer in applied artificial intelligence, Nanyang Business School, Nanyang Technological University (Singapore).
 
