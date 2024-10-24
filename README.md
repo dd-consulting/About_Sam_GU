@@ -4,8 +4,7 @@
 
 ![](misc/SamProtrait.jpg)
 
-![](misc/SamProtrait.jpg?raw=true | width=20%)
-
+![](misc/SamProtrait.jpg?raw=true width=20%)
 
 ![My_Text](misc/SamProtrait.jpg?raw=true | width=50)
 
