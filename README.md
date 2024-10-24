@@ -2,15 +2,25 @@
 
 ## 1. Hi! Welcome to my homepage!
 
+![](misc/SamProtrait.jpg)
+
+![](misc/SamProtrait.jpg?raw=true)
+
+
+![My_Text](misc/SamProtrait.jpg?raw=true)
+
+
+[<img align="right" src="misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
+
+[<img align="right" src="https://github.com/dd-consulting/About_Sam_GU/blob/main/misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
+
+[<img align="right" src="https://github.com/dd-consulting/About_Sam_GU/blob/main/misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
+
 Mr. GU Zhan (Sam) – Lecturer and Consultant in Applied Artificial Intelligence.
 
 Tagline or Short Bio: "Empowering organizations to harness data through AI, Data Science, and Cloud Computing."
 
 Professional Photo: A clear headshot.
-
-[<img align="right" src="misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
-
-[<img align="right" src="https://github.com/dd-consulting/About_Sam_GU/blob/main/misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
 
 
 Quick Links: Buttons  GitHub, NTU profile, and a contact form.
