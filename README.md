@@ -1,17 +1,12 @@
-# About me: Mr. Sam GU Zhan (Sam)
+### *--"Empower organizations through AI, Data Science, and Intelligent Automation."*
 
-## 1. Hi! Welcome to my homepage!
+### *-- "Inspiring the next generation of artificial intelligence enthusiasts and leaders through education and mentorship."*
 
 [<img align="right" src="misc/SamProtrait.jpg?raw=true" width=150>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
 
-Mr. GU Zhan (Sam) – Lecturer and Consultant in Applied Artificial Intelligence.
+I am **GU Zhan (Sam)**, a senior lecturer in applied artificial intelligence, Nanyang Business School, Nanyang Technological University (Singapore).
 
-Tagline or Short Bio: "Empowering organizations to harness data through AI, Data Science, and Cloud Computing."
-
-Professional Photo: A clear headshot.
-
-
-Quick Links: Buttons  GitHub, NTU profile, and a contact form.
+Where else am I active: GitHub, NTU profile, and a contact form.
 
 ## 2. Introduction/Personal Statement
 
@@ -122,32 +117,4 @@ Flow: Ensure it’s digestible at a glance. Top part includes your name and tagl
 
 By implementing these adjustments, your webpage will serve as an effective professional showcase, positioning you well for academic and consulting opportunities.
 
-
-
-### Normal:
-<img align="left" src='Lab/images/normal_valve_41.jpg' width=20%>
-<img align="left" src='Lab/images/normal_valve_07.jpg' width=20%>
-<img align="left" src='Lab/images/normal_valve_05.jpg' width=20%>
-<img align="left" src='Lab/images/normal_valve_02.jpg' width=20%>
-
-
-
-
-### Abormal:
-<img align="left" src='Lab/images/abnormal_valve_09.jpg' width=20%>
-<img align="left" src='Lab/images/abnormal_valve_49.jpg' width=20%>
-<img align="left" src='Lab/images/abnormal_valve_18.jpg' width=20%>
-<img align="left" src='Lab/images/abnormal_valve_20.jpg' width=20%>
-
-### Reference: Inception-v3:
-
-<img align="left" src='https://4.bp.blogspot.com/-TMOLlkJBxms/Vt3HQXpE2cI/AAAAAAAAA8E/7X7XRFOY6Xo/s1600/image03.png' width=100%>
-
-### Congratulations! You are now equipped with practical skills to carry out deep leaning image analysis in real world!
-
-### You have learnt:
-* Deep Learning Basics for Image Analysis
-* Real World Image Analysis Needs
-* Idea of Transfer Learning
-* Architecture of Transfer Learning
-* Hands-on Datalab Workshop on GCP
+### Reference: TBD
