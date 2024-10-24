@@ -4,10 +4,10 @@
 
 ![](misc/SamProtrait.jpg)
 
-![](misc/SamProtrait.jpg?raw=true)
+![](misc/SamProtrait.jpg?raw=true | width=20%)
 
 
-![My_Text](misc/SamProtrait.jpg?raw=true)
+![My_Text](misc/SamProtrait.jpg?raw=true | width=50)
 
 
 [<img align="right" src="misc/SamProtrait.jpg" width=20%>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
