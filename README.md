@@ -49,6 +49,7 @@ Areas where my expertise can be leveraged to provide you values:
   <a href="https://en.wikipedia.org/wiki/Virtual_assistant" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Virtual Agents</a>
 </div>
 
+---
 
 ## Courses and Topics I Teach (Customizable)
 
@@ -74,7 +75,7 @@ Areas where my expertise can be leveraged to provide you values:
 | Statistics and Analysis for Business Decisions | Learners will explore statistical analysis techniques for business applications, covering hypothesis testing, regression, and probability. Using R programming, participants will gain hands-on experience interpreting statistical data to inform business decisions, making this course essential for those seeking data-driven insights. | Statistics, R Programming, Probability, Regression, Business Analytics, Hypothesis Testing, Simulation, Confidence Intervals, Data-Driven Decision Making | Lecture: 12 Optional lab: 12 |
 | Statistics and Analysis for Business Decisions (Bootcamp) | Designed for business professionals, this bootcamp covers statistical analysis using R, focusing on data visualization, predictive analytics, and decision-making. With a mix of lectures and hands-on workshops, learners will analyze data and derive actionable business insights. | Statistics, Data Science, R Programming, Data Visualization, Statistical Analysis | Lecture: 8 Optional lab: 8 |
 
-
+---
 
 ## 4. Research Interests and Aspirations
 
@@ -91,6 +92,8 @@ Current Research Projects: Provide short summaries for ongoing projects, such as
 
 - GitHub Repositories: Embed a link to your GitHub repositories (e.g., GitHub Repositories) where you share open-source projects.
 
+---
+
 ## 5. Professional Experience
 Highlight your previous roles:
 
@@ -103,9 +106,13 @@ Data Scientist at Yokogawa Singapore: Developed data-driven solutions for indust
 - Cloud infrastructure deployment
 - Data analytics and project management
 
+---
+
 ## 6. Invited Talks
 
 Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.
+
+---
 
 ## 7. Student Projects Show Cases
 Open Source: Highlight significant contributions to GitHub. Feature projects or repositories demonstrating your hands-on expertise in AI and data science. Provide direct links, e.g., GitHub Profile.
@@ -119,6 +126,8 @@ Industry Partnerships: Include collaborations with businesses or institutions (B
 Invite organizations, academic institutions, or other professionals to contact you for guest lectures, consulting, or collaborative research:
 “Interested in working together? Reach out for collaborations or speaking opportunities in AI, Data Science, and more.”
 
+---
+
 ## 10. Infographic Showcase
 
 Profile Overview: A smaller version of your photo and a snapshot of your expertise and domains.
@@ -128,6 +137,8 @@ Key Contributions:
 3 to 5 core areas, e.g., "AI in Finance, Data Science, AI + ASD Research."
 Experience Highlights: Icons and numbers summarizing your experience (e.g., "10+ years in AI," "500+ students taught," "4 industry collaborations").
 Projects: Quick stats and icons showcasing your GitHub activity (e.g., "10+ open-source projects," "200+ contributions").
+
+---
 
 ## 11. Footer
 
@@ -145,5 +156,7 @@ Icons and Stats: Include visuals like AI symbols, academic caps, or GitHub logos
 Flow: Ensure it’s digestible at a glance. Top part includes your name and tagline, followed by your core areas of expertise, and ends with highlights from your professional experience and GitHub contributions.
 
 By implementing these adjustments, your webpage will serve as an effective professional showcase, positioning you well for academic and consulting opportunities.
+
+---
 
 ### Reference: TBD
