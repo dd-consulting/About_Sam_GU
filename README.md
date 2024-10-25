@@ -1,4 +1,4 @@
-[<img align="right" src="misc/SamProtrait.jpg?raw=true" width=200>](https://youtu.be/W-ZsWqcl1_c "Click to talk...")
+[<img align="right" src="misc/Sam_GU_Portrait.jpg?raw=true" width=200>](https://sg.linkedin.com/in/zhan-gu-27a82823 "Click to talk...")
 
 ### *---- "Empower organizations through AI, Data Science, and Intelligent Automation."*
 
