@@ -19,7 +19,7 @@ Where else am I active:
 </div>
 
 
-## More about my domains of expertise:
+## More about my expertise:
 
 With an intrinsic passion for artificial intelligence, I work with organizations and academic institutions to advance AI technologies and inspire the next generation of leaders. My focus is on leveraging data science, machine learning, intelligent automation and cloud computing to solve problems.
 
@@ -27,45 +27,25 @@ With an intrinsic passion for artificial intelligence, I work with organizations
 
 Areas where my expertise can be leveraged to provide you values:
 
-
-Artificial Intelligence (AI)
-
-Data Science and Machine Learning
-
-Generative AI
-
-AI + Autism Spectrum Disorder (ASD) Research
-
-Banking and Financial Services
-
-Intellectual Property Law
-
-
 <div style="white-space: nowrap;">
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
-  <a href="" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">?</a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Artificial Intelligence</a>
+  <a href="https://en.wikipedia.org/wiki/Assistive_technology" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Assistive Technology</a>
+  <a href="https://en.wikipedia.org/wiki/Banking" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Banking and Financial Services</a>
+  <a href="https://en.wikipedia.org/wiki/Data_science" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Data Science</a>
+  <a href="https://en.wikipedia.org/wiki/Data_governance" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Data Governance</a>
+  <a href="https://en.wikipedia.org/wiki/Deep_learning" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Deep Learning</a>
+  <a href="https://en.wikipedia.org/wiki/Edge_computing" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Edge Devices and Systems</a>
+  <a href="https://en.wikipedia.org/wiki/Generative_model" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Generative AI</a>
+  <a href="https://en.wikipedia.org/wiki/Genetic_algorithm" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Genetic Algorithms</a>
+  <a href="https://en.wikipedia.org/wiki/Apache_Hadoop" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Hadoop/Spark Eco-Systems</a>
+  <a href="https://en.wikipedia.org/wiki/Intelligent_Automation" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Intelligent Process Automation</a>
+  <a href="https://en.wikipedia.org/wiki/Large_language_model" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Large Language Models (LLM)</a>
+  <a href="https://en.wikipedia.org/wiki/Multimodal_deep_learning" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Large Multi-modal Models (LMM)</a>
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Machine Learning</a>
+  <a href="https://en.wikipedia.org/wiki/Automated_reasoning" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Machine Reasoning</a>
+  <a href="https://en.wikipedia.org/wiki/Predictive_analytics" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Predictive Analysis</a>
+  <a href="https://en.wikipedia.org/wiki/Statistical_analysis" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Statistical Analysis</a>
+  <a href="https://en.wikipedia.org/wiki/Virtual_assistant" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Virtual Agents</a>
 </div>
 
 
@@ -120,7 +100,7 @@ Mention any awards or recognitions, such as contributions to AI research or impa
 
 Industry Partnerships: Include collaborations with businesses or institutions (Barclays, Yokogawa, etc.).
 
-## 9. Call to Action
+## Interested in co-explore commercial or research collaborations? 
 
 Invite organizations, academic institutions, or other professionals to contact you for guest lectures, consulting, or collaborative research:
 “Interested in working together? Reach out for collaborations or speaking opportunities in AI, Data Science, and more.”
