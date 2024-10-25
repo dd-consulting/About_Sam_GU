@@ -8,7 +8,7 @@ I am **GU Zhan (Sam)**, currently servering senior lecturer role in applied arti
 
 Where else am I active:
 
-<div style="white-space: nowrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 3px;">
   <a href="https://dr.ntu.edu.sg/cris/rp/rp02466" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">NTU</a>
 
   <a href="https://sg.linkedin.com/in/zhan-gu-27a82823" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">LinkedIn</a>
@@ -27,7 +27,7 @@ With an intrinsic passion for artificial intelligence, I work with organizations
 
 Areas where my expertise can be leveraged to provide you values:
 
-<div style="white-space: nowrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 3px;">
   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Artificial Intelligence</a>
   <a href="https://en.wikipedia.org/wiki/Assistive_technology" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Assistive Technology</a>
   <a href="https://en.wikipedia.org/wiki/Banking" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Banking and Financial Services</a>
