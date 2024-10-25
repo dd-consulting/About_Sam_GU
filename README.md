@@ -4,7 +4,7 @@
 
 ### *---- "Inspire artificial intelligence enthusiasts and leaders through education and mentorship."*
 
-I am **GU Zhan (Sam)**, currently servering senior lecturer role in applied artificial intelligence, division of information technology & operations management, Nanyang Business School, Nanyang Technological University (NTU Singapore).
+Hi! I am **GU Zhan (Sam)**, currently servering senior lecturer role in applied artificial intelligence, division of information technology & operations management, Nanyang Business School, Nanyang Technological University (NTU Singapore).
 
 Where else am I active:
 
@@ -18,6 +18,7 @@ Where else am I active:
   <a href="https://www.youtube.com/@telescopeuser9284" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">YouTube</a>
 </div>
 
+---
 
 ## More about my expertise:
 
@@ -38,7 +39,7 @@ Areas where my expertise can be leveraged to provide you values:
   <a href="https://en.wikipedia.org/wiki/Generative_model" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Generative AI</a>
   <a href="https://en.wikipedia.org/wiki/Genetic_algorithm" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Genetic Algorithms</a>
   <a href="https://en.wikipedia.org/wiki/Apache_Hadoop" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Hadoop/Spark Eco-Systems</a>
-  <a href="https://en.wikipedia.org/wiki/Intelligent_Automation" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Intelligent Process Automation</a>
+  <a href="https://en.wikipedia.org/wiki/Intelligent_automation" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Intelligent Process Automation</a>
   <a href="https://en.wikipedia.org/wiki/Large_language_model" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Large Language Models (LLM)</a>
   <a href="https://en.wikipedia.org/wiki/Multimodal_deep_learning" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Large Multi-modal Models (LMM)</a>
   <a href="https://en.wikipedia.org/wiki/Machine_learning" style="background-color: #1b72c0; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-right: 10px;">Machine Learning</a>
@@ -50,7 +51,6 @@ Areas where my expertise can be leveraged to provide you values:
 
 
 ## 3. Courses and Topics I Teach
-Courses: A refined list showcasing the courses you've taught or can teach:
 
 - AI in Accounting and Finance: Leveraging AI technologies in financial applications.
 
