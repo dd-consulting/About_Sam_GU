@@ -77,6 +77,28 @@ Areas where my expertise can be leveraged to provide you values:
 
 ---
 
+## Invited Talks
+
+`[Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.]`
+
+
+| Talk Title                                                    | Year Month | Location   | Organization                          | Tags / Topics                                                                                                                                                                    | Preview                                                                                                                                                                             |
+|---------------------------------------------------------------|------------|------------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Understanding AI's Role in Healthcare Innovation**          | Jul-2024   | Singapore  | Healthcare Innovation Summit          | Provided an in-depth talk on AI’s potential in healthcare, including predictive analytics, diagnostic AI tools, and real-world case studies in medical innovation.               | <a href="https://link-to-event.com"><img src="misc/img_AI_healthcare.webp" alt="Understanding AI's Role in Healthcare Innovation" width="100"></a>                                  |
+| **Machine Learning for Strategic Business Decisions**         | May-2024   | Singapore  | University of Business & Technology   | Guest lecture covering machine learning principles, data-driven decision-making, and hands-on application for strategic business scenarios.                                      | <a href="https://link-to-event.com"><img src="misc/img_ML_business.webp" alt="Machine Learning for Strategic Business Decisions" width="100"></a>                                   |
+| **The Role of Generative AI in Sustainable Development**      | Mar-2024   | Singapore  | GreenTech Summit                      | Presented the impact of AI-driven sustainability efforts, emphasizing innovative uses of AI in climate monitoring, resource optimization, and green technology.                   | <a href="https://link-to-event.com"><img src="misc/img_sustainability.webp" alt="The Role of Generative AI in Sustainable Development" width="100"></a>                             |
+| **Navigating AI and Ethical Data Use in Business**            | Jan-2024   | Singapore  | Business Ethics Webinar Series        | Led an insightful webinar on AI ethics, focusing on responsible data use, transparency, and implications for decision-making in modern business contexts.                        | <a href="https://link-to-event.com"><img src="misc/img_ethics.webp" alt="Navigating AI and Ethical Data Use in Business" width="100"></a>                                          |
+| **Fuzzy Logic and Decision Systems for Ambiguity Management** | Dec-2023   | Singapore  | Institute of Decision Sciences        | Presented the use of fuzzy logic for decision-making in uncertain environments, with practical examples and a focus on computational intelligence.                               | <a href="https://link-to-event.com"><img src="misc/img_fuzzy_logic.webp" alt="Fuzzy Logic and Decision Systems for Ambiguity Management" width="100"></a>                           |
+| **Deep Learning for Image Recognition in Retail**             | Jun-2023   | Singapore  | Retail Analytics Conference           | Keynote focused on deep learning applications in image recognition to enhance customer service, inventory management, and marketing in retail settings.                           | <a href="https://link-to-event.com"><img src="misc/img_DL_retail.webp" alt="Deep Learning for Image Recognition in Retail" width="100"></a>                                         |
+| **Building Knowledge Graphs for Competitive Intelligence**    | May-2023   | Singapore  | Data Science Innovation Forum         | Delivered a technical session on leveraging knowledge graphs to enhance data linkage and derive strategic insights for competitive advantage.                                    | <a href="https://link-to-event.com"><img src="misc/img_knowledge_graph.webp" alt="Building Knowledge Graphs for Competitive Intelligence" width="100"></a>                           |
+| **Harnessing NLP for Customer Engagement**                    | May-2023   | Singapore  | Customer Experience World Conference  | Discussed how natural language processing (NLP) enhances customer insights, personalization, and engagement strategies, with examples of NLP tools and applications.             | <a href="https://link-to-event.com"><img src="misc/img_NLP_CX.webp" alt="Harnessing NLP for Customer Engagement" width="100"></a>                                                 |
+| **AI-Driven Finance Transformation**                          | Mar-2021   | Singapore  | Global Fintech Forum                  | Delivered a keynote exploring how AI enhances decision-making and automation in finance, covering practical AI solutions and industry case studies.                              | <a href="https://link-to-event.com"><img src="misc/img_AI_finance.webp" alt="AI-Driven Finance Transformation" width="100"></a>                                                    |
+
+
+
+
+---
+
 ## 4. Research Interests and Aspirations
 
 Research Areas:
