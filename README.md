@@ -1,5 +1,9 @@
 [<img align="right" src="misc/Sam_Gu_Portrait.jpg?raw=true" width=200>](https://sg.linkedin.com/in/zhan-gu-27a82823 "Click to talk...")
 
+> ### *"Empower organizations through AI, Data Science, and Intelligent Automation."*
+
+> ### *"Inspire artificial intelligence enthusiasts and leaders through education and mentorship."*
+
 ### *---- "Empower organizations through AI, Data Science, and Intelligent Automation."*
 
 ### *---- "Inspire artificial intelligence enthusiasts and leaders through education and mentorship."*
@@ -79,7 +83,9 @@ Areas where my expertise can be leveraged to provide you values:
 
 ## Invited Talks
 
-> Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.
+> Showcase any guest lectures, keynotes, or webinars you have delivered.
+
+`Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.`
 
 `<Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.>`
 
