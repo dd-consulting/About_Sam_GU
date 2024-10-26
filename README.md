@@ -53,7 +53,7 @@ Areas where my expertise can be leveraged to provide you values:
 
 ## Courses and Topics I Teach
 
-> Topics and durations are customizable for your learning needs.
+> Topics and durations are customizable for your needs.
 
 | Course Names | Synopsis | Tags / Topics | Adjustable Duration (Hours) | Preview |
 | ------------ | -------- | ------------- | ---------------------------- | ------- |
