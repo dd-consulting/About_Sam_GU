@@ -1,9 +1,5 @@
 [<img align="right" src="misc/Sam_Gu_Portrait.jpg?raw=true" width=200>](https://sg.linkedin.com/in/zhan-gu-27a82823 "Click to talk...")
 
-> ### *"Empower organizations through AI, Data Science, and Intelligent Automation."*
-
-> ### *"Inspire artificial intelligence enthusiasts and leaders through education and mentorship."*
-
 ### *---- "Empower organizations through AI, Data Science, and Intelligent Automation."*
 
 ### *---- "Inspire artificial intelligence enthusiasts and leaders through education and mentorship."*
@@ -24,7 +20,7 @@ Where else am I active:
 
 ---
 
-## More about my expertise:
+## My Domains of Expertise:
 
 With an intrinsic passion for artificial intelligence, I work with organizations and academic institutions to advance AI technologies and inspire the next generation of leaders. My focus is on leveraging data science, machine learning, intelligent automation and cloud computing to solve problems.
 
@@ -55,7 +51,9 @@ Areas where my expertise can be leveraged to provide you values:
 
 ---
 
-## Courses and Topics I Teach (Customizable)
+## Courses and Topics I Teach
+
+> Topics and durations are customizable for your learning needs.
 
 | Course Names | Synopsis | Tags / Topics | Adjustable Duration (Hours) | Preview |
 | ------------ | -------- | ------------- | ---------------------------- | ------- |
@@ -83,17 +81,11 @@ Areas where my expertise can be leveraged to provide you values:
 
 ## Invited Talks
 
+> Topics and durations are customizable for your needs.
+
 > Showcase any guest lectures, keynotes, or webinars you have delivered.
 
-`Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.`
-
-`<Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.>`
-
-`[Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.]`
-
-[Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.]
-
-`Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.`
+`Showcase any guest lectures, keynotes, or webinars you have delivered.`
 
 | Talk Title                                                    | Year Month | Location   | Organization                          | Tags / Topics                                                                                                                                                                    | Preview                                                                                              |
 |---------------------------------------------------------------|------------|------------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
