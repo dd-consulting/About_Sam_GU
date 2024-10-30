@@ -16,7 +16,9 @@ Agenda
 
 ●Global Outlook of AI for Higher Learning
 
-●AI Guidelines and Policies from Universities and Authoritative Bodies ●Key Comparisons of AI Guidelines and Policies
+●AI Guidelines and Policies from Universities and Authoritative Bodies 
+
+●Key Comparisons of AI Guidelines and Policies
 
 ●Preventing GenAI Plagiarism: Guidance and Tools
 
