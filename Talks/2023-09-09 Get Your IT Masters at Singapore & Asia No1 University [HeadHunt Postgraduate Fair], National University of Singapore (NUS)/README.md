@@ -9,4 +9,4 @@ This session showcased top IT and data science graduate programs designed to equ
 
 Title:
 
-Get Your IT Masters at Singapore & Asia’s No.1 University
+2023 Get Your IT Masters at Singapore & Asia No1 University [HeadHunt Postgraduate Fair], National University of Singapore (NUS)
