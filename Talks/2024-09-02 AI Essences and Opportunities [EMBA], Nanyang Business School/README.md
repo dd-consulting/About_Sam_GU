@@ -1,4 +1,11 @@
-This session delves into the transformative power of AI, examining how machine intelligence mirrors human cognition. The talk highlights growth opportunities for Chinese AI enterprises abroad, especially in computer vision and language comprehension, shaping the future of business applications.
+This session delved into the transformative power of AI, examining how machine intelligence mirrors human cognition. The talk highlighted growth opportunities for Chinese AI enterprises abroad, especially in computer vision and language comprehension, shaping the future of business applications.
+
+---
+
+![](sn000.jpg)
+![](sn001.jpg)
+![](sn002.jpg)
+![](sn003.jpg)
 
 ---
 

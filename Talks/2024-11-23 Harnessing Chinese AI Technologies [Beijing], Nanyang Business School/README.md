@@ -1,4 +1,4 @@
-This session delves into China's advancements in AI, showcasing innovations in facial recognition, computer vision, and robotics that emulate human cognitive abilities. Discover global opportunities these technologies present, supported by insights from leading AI firms and the 2024 Technology Trends Outlook report.
+This session delved into China’s advancements in AI, showcasing innovations in facial recognition, computer vision, and robotics that emulate human cognitive abilities. Attendees discovered global opportunities these technologies present, supported by insights from leading AI firms and the 2024 Technology Trends Outlook report.
 
 ---
 
