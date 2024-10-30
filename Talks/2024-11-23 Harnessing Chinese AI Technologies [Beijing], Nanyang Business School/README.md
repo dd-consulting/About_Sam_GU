@@ -2,7 +2,7 @@ This session delves into China's advancements in AI, showcasing innovations in f
 
 ---
 
-![](Talks/2024-11-23%20Harnessing%20Chinese%20AI%20Technologies%20%5BBeijing%5D%2C%20Nanyang%20Business%20School/sn001.png)
+![](sn001.png)
 
 
 ---
