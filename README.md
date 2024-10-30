@@ -20,7 +20,7 @@ Where else am I active:
 
 ---
 
-## My Domains of Expertise:
+# My Domains of Expertise:
 
 With an intrinsic passion for artificial intelligence, I work with organizations and academic institutions to advance AI technologies and inspire the next generation of leaders. My focus is on leveraging data science, machine learning, intelligent automation and cloud computing to solve problems.
 
@@ -51,7 +51,7 @@ Areas where my expertise can be leveraged to provide you values:
 
 ---
 
-## Courses and Topics I Teach
+# Courses and Topics I Teach
 
 > Topics and durations are customizable for your needs.
 
@@ -79,7 +79,7 @@ Areas where my expertise can be leveraged to provide you values:
 
 ---
 
-## Invited Talks
+# Invited Talks
 
 > Topics and durations are customizable for your needs.
 
@@ -97,7 +97,7 @@ Areas where my expertise can be leveraged to provide you values:
 
 ---
 
-## 4. Research Interests and Aspirations
+# 4. Research Interests and Aspirations
 
 Research Areas:
 
@@ -114,7 +114,7 @@ Current Research Projects: Provide short summaries for ongoing projects, such as
 
 ---
 
-## 5. Professional Experience
+# 5. Professional Experience
 Highlight your previous roles:
 
 Data Scientist at Yokogawa Singapore: Developed data-driven solutions for industrial automation.
@@ -128,27 +128,27 @@ Data Scientist at Yokogawa Singapore: Developed data-driven solutions for indust
 
 ---
 
-## 6. Invited Talks
+# 6. Invited Talks
 
 Talks: Showcase any guest lectures, keynotes, or webinars you have delivered.
 
 ---
 
-## 7. Student Projects Show Cases
+# 7. Student Projects Show Cases
 Open Source: Highlight significant contributions to GitHub. Feature projects or repositories demonstrating your hands-on expertise in AI and data science. Provide direct links, e.g., GitHub Profile.
 
 Mention any awards or recognitions, such as contributions to AI research or impactful industry projects.
 
 Industry Partnerships: Include collaborations with businesses or institutions (Barclays, Yokogawa, etc.).
 
-## Interested in co-explore commercial or research collaborations? 
+# 8. Interested in co-explore commercial or research collaborations? 
 
 Invite organizations, academic institutions, or other professionals to contact you for guest lectures, consulting, or collaborative research:
 “Interested in working together? Reach out for collaborations or speaking opportunities in AI, Data Science, and more.”
 
 ---
 
-## 10. Infographic Showcase
+# 9. Infographic Showcase
 
 Profile Overview: A smaller version of your photo and a snapshot of your expertise and domains.
 
@@ -160,7 +160,7 @@ Projects: Quick stats and icons showcasing your GitHub activity (e.g., "10+ open
 
 ---
 
-## 11. Footer
+# 10. Footer
 
 Social media links (LinkedIn, GitHub, NTU Profile).
 
@@ -179,4 +179,4 @@ By implementing these adjustments, your webpage will serve as an effective profe
 
 ---
 
-### Reference: TBD
+# 11. Reference: TBD
