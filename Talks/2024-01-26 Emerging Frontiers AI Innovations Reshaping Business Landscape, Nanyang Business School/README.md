@@ -3,6 +3,7 @@ This session explored cutting-edge AI innovations that are transforming the busi
 ---
 
 ![](sn001.png)
+![](sn002.png)
 
 ---
 
