@@ -9,4 +9,5 @@ This session showcased AI-powered Intelligent Process Automation (IPA) as a tran
 ---
 
 Title:
+
 Artificial Intelligence for IT & ITES Industry, Singapore e-Government Leadership Centre, LICT, Bangladesh Computer Council

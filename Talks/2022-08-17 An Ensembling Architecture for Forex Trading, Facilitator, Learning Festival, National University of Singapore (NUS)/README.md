@@ -1,4 +1,4 @@
-This talk presented an innovative ensembling architecture using machine learning and genetic algorithms to optimize Forex trading, yielding a promising 10% profit under ideal back-testing conditions. The project team, supervised by GU Zhan, highlighted advancements in algorithmic trading and automated financial strategies for enhanced profitability.
+This talk presented an innovative ensembling architecture using machine learning and genetic algorithms to optimize Forex trading, yielding a promising 10% profit under ideal back-testing conditions. The project team, supervised by GU Zhan (Sam), highlighted advancements in algorithmic trading and automated financial strategies for enhanced profitability.
 
 https://www.mdpi.com/2674-1032/1/2/8
 
