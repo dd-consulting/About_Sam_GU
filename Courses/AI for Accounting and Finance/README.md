@@ -1,4 +1,11 @@
-Kindly refer to the course outline [here](https://github.com/dd-consulting/About_Sam_GU/tree/main/Courses).
+Kindly refer to the course outline [here]("co_BC3409.pdf").
+
+Kindly refer to the course outline [here](co_BC3409.pdf).
+
+Kindly refer to the course outline [here]("https://github.com/dd-consulting/About_Sam_GU/blob/main/Courses/AI%20for%20Accounting%20and%20Finance/co_BC3409.pdf").
+
+Kindly refer to the course outline [here](https://github.com/dd-consulting/About_Sam_GU/blob/main/Courses/AI%20for%20Accounting%20and%20Finance/co_BC3409.pdf).
+
 
 Contract me for your customization needs or enquiry.
 
