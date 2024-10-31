@@ -3,6 +3,9 @@ This session provided Ghanaian educational delegates with valuable insights into
 ---
 
 ![](sn001.png)
+![](sn002.jpg)
+![](sn003.jpg)
+![](sn004.jpg)
 
 ---
 
