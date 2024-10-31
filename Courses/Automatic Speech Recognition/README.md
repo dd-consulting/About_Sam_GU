@@ -9,7 +9,9 @@ Contract me for your customization needs or enquiry.
 ![](sn004.jpg)
 
 [Watch Video 1](vd001.mp4)
+
 [Watch Video 2](vd002.mp4)
+
 [Watch Video 3](vd003.mp4)
 
 <video width="320" height="240" controls>
