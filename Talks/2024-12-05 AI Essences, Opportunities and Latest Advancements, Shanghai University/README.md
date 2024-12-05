@@ -4,7 +4,7 @@ This session explores AI's transformative impact on industries, emphasizing adva
 
 ![](sn001.png)
 
-![](sn002.jpg)
+![](sn003.jpg)
 
 ---
 
