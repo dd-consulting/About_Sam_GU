@@ -6,7 +6,7 @@ This interactive half-day workshop is designed to introduce faculty and research
 
 ![](sn002.png)
 
-![](sn003.jpg)
+![](sn003.png)
 
 ---
 
