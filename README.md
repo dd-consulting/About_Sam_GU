@@ -51,7 +51,7 @@ Areas where my expertise can be leveraged to provide you values:
 
 ---
 
-# 2. Research Interests and Aspirations
+# 2. Research Interests, Collaboration Focus, and Aspirations
 
 My research interests lie at the intersection of **applied artificial intelligence, machine learning, data science, intelligent automation, assistive technology, and the science of learning**. I am primarily interested in work that converts technical methods into **usable systems, rigorous evidence, and deployable outcomes**.
 
