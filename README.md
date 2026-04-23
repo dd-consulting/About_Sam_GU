@@ -51,7 +51,65 @@ Areas where my expertise can be leveraged to provide you values:
 
 ---
 
-# 2. Invited Talks
+# 2. Research Interests and Aspirations
+
+My research interests lie at the intersection of **applied artificial intelligence, machine learning, data science, intelligent automation, assistive technology, and the science of learning**. I am primarily interested in work that converts technical methods into **usable systems, rigorous evidence, and deployable outcomes**.
+
+My current research portfolio spans four connected areas:
+
+- **Enterprise and Industrial AI**  
+  Predictive analytics, anomaly detection, explainable decision support, intelligent automation, and AI for heterogeneous operational data.
+
+- **Sensing and Translational MedTech Analytics**  
+  AI methods for sensor interpretation, multimodal analytics, workflow logic, and translational applications in healthcare and engineering.
+
+- **AI-Enabled Assistive Technology for Neurodiverse and Special-Needs Communities**  
+  Practical AI tools for communication, daily living, caregiver support, and user-centred assistive applications.
+
+- **Inclusive Higher Education for Neurodiverse Learners**  
+  Neurodiversity-aware teaching, assessment, and human-centred AI use in authentic higher-education settings, including course design, quizzes, tests, exams, and feedback practices.
+
+### Current Research Themes
+
+Current themes I am developing include:
+
+- applied AI for business, finance, and operations;
+- AI for health and education;
+- AI-supported interventions and assistive technology for autism and related needs;
+- inclusive learning, assessment adaptation, and neurodiversity-aware pedagogy.
+
+### Value to Collaborators
+
+For collaborators, I can contribute in areas such as:
+
+- problem framing and study design;
+- heterogeneous data integration and baseline AI/ML pipelines;
+- prototype analytics, dashboards, and workflow tools;
+- evaluation design for pilot studies and translational use cases;
+- student-backed execution through undergraduate, graduate, capstone, or course-based project work.
+
+This makes me particularly interested in collaborations that begin with **scoped, evidence-generating pilots** and can mature into **publications, prototypes, and grant proposals**.
+
+### Research Aspiration
+
+My longer-term aim is to build a research portfolio that combines **technical depth, translational deployment, and measurable social impact**. I am especially interested in collaborations where AI can improve decision quality, accessibility, inclusion, independence, and quality of life across business, education, health, and special-needs contexts.
+
+### Open Collaboration Areas
+
+I welcome collaboration in:
+
+- enterprise and industrial AI;
+- predictive analytics and intelligent automation;
+- sensing and multimodal AI systems;
+- assistive technology and autism-related innovation;
+- inclusive learning and neurodiversity-aware assessment;
+- student-supervised prototype and applied project development.
+
+I am open to **co-authorship, pilot design, capstone/FYP supervision, grant concept development, and early-stage in-kind collaboration** where there is strong alignment.
+
+---
+
+# 3. Invited Talks
 
 > Topics and durations are customizable for your needs.
 
@@ -82,7 +140,7 @@ Areas where my expertise can be leveraged to provide you values:
 
 ---
 
-# 3. Courses and Topics I Teach
+# 4. Courses and Topics I Teach
 
 > Topics and durations are customizable for your needs.
 
@@ -107,24 +165,6 @@ Areas where my expertise can be leveraged to provide you values:
 | Predictive Modeling using R | Learners will develop predictive modeling skills to identify trends and gain insights for strategic decision-making. This course offers practical applications of predictive analytics and machine learning, empowering learners to apply statistical methods to business data for a competitive edge. | Predictive Analytics, Data Science, Statistical Modeling, Forecasting, Anomaly Detection, Business Insights, R | Lecture: 12 Optional lab: 12 | <a href="https://sg.linkedin.com/in/zhan-gu-27a82823"><img src="misc/img_AI_course.webp" alt="Predictive Modeling using R" width="100"></a> |
 | Statistics and Analysis for Business Decisions | Learners will explore statistical analysis techniques for business applications, covering hypothesis testing, regression, and probability. Using R programming, participants will gain hands-on experience interpreting statistical data to inform business decisions, making this course essential for those seeking data-driven insights. | Statistics, R Programming, Probability, Regression, Business Analytics, Hypothesis Testing, Simulation, Confidence Intervals, Data-Driven Decision Making | Lecture: 12 Optional lab: 12 | <a href="https://sg.linkedin.com/in/zhan-gu-27a82823"><img src="misc/img_AI_course.webp" alt="Statistics and Analysis for Business Decisions" width="100"></a> |
 | Statistics and Analysis for Business Decisions (Bootcamp) | Designed for business professionals, this bootcamp covers statistical analysis using R, focusing on descriptive analysis and data visualization. With a mix of lectures and hands-on workshops, learners will analyze data and derive actionable business insights. | Statistics, Data Science, R Programming, Data Visualization, Statistical Analysis | Lecture: 8 Optional lab: 8 | <a href="https://sg.linkedin.com/in/zhan-gu-27a82823"><img src="misc/img_AI_course.webp" alt="Statistics and Analysis for Business Decisions (Bootcamp)" width="100"></a> <a href="https://sg.linkedin.com/in/zhan-gu-27a82823"><img src="misc/img_AI_course.webp" alt="Statistics and Analysis for Business Decisions (Bootcamp)" width="100"></a> <a href="https://sg.linkedin.com/in/zhan-gu-27a82823"><img src="misc/img_AI_course.webp" alt="Statistics and Analysis for Business Decisions (Bootcamp)" width="100"></a> |
-
----
-
-# 4. Research Interests and Aspirations [TBD]
-
-Research Areas:
-
-- Applied AI for business and financial services.
-
-- AI in health and education (specifically in ASD research).
-
-Current Research Projects: Provide short summaries for ongoing projects, such as:
-
-- AI + ASD Research: Developing AI-based interventions to support individuals with autism.
-
-- Generative AI: Exploring how generative models can be used in finance and healthcare.
-
-- GitHub Repositories: Embed a link to your GitHub repositories (e.g., GitHub Repositories) where you share open-source projects.
 
 ---
 
